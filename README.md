@@ -60,5 +60,5 @@ Time ended!
 - Implement a graphical version using a simple GUI library.
 
 ---
-This project is a great way to learn real-time programming concepts in C! 🚀
+This project is a great way to learn real-time programming concepts in C!
 
